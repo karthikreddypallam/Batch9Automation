@@ -1,0 +1,22 @@
+[DEBUG] 29 Nov 2020 18:41:23,939 com.autopractice.tests.DpTest launchBrowser - Launching Chrome Driver
+[DEBUG] 29 Nov 2020 18:41:30,052 com.autopractice.tests.DpTest launchBrowser - Launched Chrome Browser
+[INFO] 29 Nov 2020 18:41:33,482 com.autopractice.tests.DpTest enterURL - Launched url ==> http://automationpractice.com/index.php?controller=authentication&back=my-account
+[INFO] 29 Nov 2020 18:41:33,869 com.autopractice.tests.DpTest testLoginWithValidCredentials - Entered username: test1
+[INFO] 29 Nov 2020 18:41:33,935 com.autopractice.tests.DpTest testLoginWithValidCredentials - Entered password: pass1
+[INFO] 29 Nov 2020 18:41:34,739 com.autopractice.tests.DpTest testLoginWithValidCredentials - Clicked on SignIn Button
+[ERROR] 29 Nov 2020 18:41:34,761 com.autopractice.tests.DpTest afterMethod - testLoginWithValidCredentials Result is Failed 
+[INFO] 29 Nov 2020 18:41:35,820 com.autopractice.tests.DpTest enterURL - Launched url ==> http://automationpractice.com/index.php?controller=authentication&back=my-account
+[INFO] 29 Nov 2020 18:41:35,925 com.autopractice.tests.DpTest testLoginWithValidCredentials - Entered username: test2
+[INFO] 29 Nov 2020 18:41:35,977 com.autopractice.tests.DpTest testLoginWithValidCredentials - Entered password: pass2
+[INFO] 29 Nov 2020 18:41:37,357 com.autopractice.tests.DpTest testLoginWithValidCredentials - Clicked on SignIn Button
+[ERROR] 29 Nov 2020 18:41:37,368 com.autopractice.tests.DpTest afterMethod - testLoginWithValidCredentials Result is Failed 
+[INFO] 29 Nov 2020 18:41:38,190 com.autopractice.tests.DpTest enterURL - Launched url ==> http://automationpractice.com/index.php?controller=authentication&back=my-account
+[INFO] 29 Nov 2020 18:41:38,326 com.autopractice.tests.DpTest testLoginWithValidCredentials - Entered username: test3
+[INFO] 29 Nov 2020 18:41:38,376 com.autopractice.tests.DpTest testLoginWithValidCredentials - Entered password: pass3
+[INFO] 29 Nov 2020 18:41:39,302 com.autopractice.tests.DpTest testLoginWithValidCredentials - Clicked on SignIn Button
+[ERROR] 29 Nov 2020 18:41:39,311 com.autopractice.tests.DpTest afterMethod - testLoginWithValidCredentials Result is Failed 
+[INFO] 29 Nov 2020 18:41:40,133 com.autopractice.tests.DpTest enterURL - Launched url ==> http://automationpractice.com/index.php?controller=authentication&back=my-account
+[INFO] 29 Nov 2020 18:41:40,259 com.autopractice.tests.DpTest testLoginWithValidCredentials - Entered username: test4
+[INFO] 29 Nov 2020 18:41:40,328 com.autopractice.tests.DpTest testLoginWithValidCredentials - Entered password: pass4
+[INFO] 29 Nov 2020 18:41:41,140 com.autopractice.tests.DpTest testLoginWithValidCredentials - Clicked on SignIn Button
+[ERROR] 29 Nov 2020 18:41:41,149 com.autopractice.tests.DpTest afterMethod - testLoginWithValidCredentials Result is Failed 
